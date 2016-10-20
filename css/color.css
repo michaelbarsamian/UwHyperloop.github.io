@@ -1,66 +1,66 @@
 /*
-* Brooklyn Template Colors 
+* Brooklyn Template Colors
 * Copyright 2013, UNITED THEMES
 * www.unitedthemes.com
 */
 ::-moz-selection  {
 	color: #FFFFFF;
-	background: #f1c40f;
+	background: #9932CD;
 }
 ::selection {
 	color: #FFFFFF;
-	background:#f1c40f;
+	background:#9932CD;
 }
-a { 
-	color: #f1c40f; 
+a {
+	color: #9932CD;
 }
 .selected {
-	color: #f1c40f !important;
+	color: #9932CD !important;
 }
-strong { color: #f1c40f; }
-blockquote, blockquote p { color: #f1c40f; }
-.icons-ul i { color:#f1c40f; }
+strong { color: #9932CD; }
+blockquote, blockquote p { color: #9932CD; }
+.icons-ul i { color:#9932CD; }
 .ha-header nav a:hover {
-	color: #f1c40f;
+	color: #9932CD;
 }
 .hero-title span {
-	color:#f1c40f;
+	color:#9932CD;
 }
 .about-icon {
-	background:#f1c40f;
+	background:#9932CD;
 }
 .info h3 {
-	color:#f1c40f;
+	color:#9932CD;
 }
 .cta-section {
-	background:#f1c40f !important;
+	background:#9932CD !important;
 }
 .contact-wrap h3 {
-	color:#f1c40f;
+	color:#9932CD;
 }
 .social-title {
-	color:#f1c40f;
+	color:#9932CD;
 }
 .count {
-	color:#f1c40f;
+	color:#9932CD;
 }
 .client-section {
-	background:#f1c40f !important;	
+	background:#9932CD !important;
 }
 .footer i {
-	color:#f1c40f;
+	color:#9932CD;
 }
 .copyright a:hover {
-	color:#f1c40f;
+	color:#9932CD;
 }
 button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-	background:#f1c40f;
+	background:#9932CD;
 }
 .social-link:hover .social-icon,
 .portfolio-caption {
-	background:rgb(241, 196, 15);
-	background:rgba(241, 196, 15, 0.85);
+	background:rgb(153, 50, 205);
+	background:rgba(153, 50, 205, 1);
 }
