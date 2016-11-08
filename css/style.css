@@ -910,10 +910,10 @@ img {
 /* #Social Newtwork Section
 ================================================== */
 
-.social-section .parallax-header {
+.media-section .social-section .parallax-header {
 	padding-bottom:70px !important;
 }
-.social-section {
+.media-section .social-section {
 	padding-bottom:110px;
 }
 .social-network {
@@ -1008,7 +1008,7 @@ img {
 }
 .js .parallax-title,
 .js .parallax-slogan {
-	opacity:0;
+	opacity:1;
 }
 .parallax-content {
 	color:#FFFFFF;
@@ -1409,7 +1409,7 @@ textarea:focus {
 .counter-box {
 	margin-bottom:20px;
 }
-.social-section {
+.media-section .social-section {
 	padding-bottom:10px;
 }
 .about-section,
