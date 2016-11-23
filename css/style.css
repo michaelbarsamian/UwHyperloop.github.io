@@ -1028,12 +1028,12 @@ img {
 .parallax-background.fixed {
 	background-attachment: fixed !important;
 }
-.parallax-banner-1 { background:url('../images/newBackground1.jpg'); background-position: center center; }
+.parallax-banner-1 { background:url('../images/main.jpg'); background-position: center center; }
 .parallax-banner-2 { background:url('../images/rotor.JPG'); background-position: center center; }
 .parallax-banner-3 { background:url('../images/gear.JPG'); }
-.parallax-banner-4 { background:url('../images/newBackground3.jpg'); background-position:center bottom !important; }
+.parallax-banner-4 { background:url('../images/gear.JPG'); background-position:center bottom !important; }
 .parallax-banner-5 { background:url('../images/bottom.jpg'); }
-.parallax-banner-6 { background:url('../images/newBackground2.jpg'); }
+.parallax-banner-6 { background:url('../images/side.JPG'); }
 .parallax-banner-7 { background:url('../images/404.jpg'); }
 
 
