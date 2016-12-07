@@ -63,7 +63,7 @@ label::before {
     margin-bottom: 3px;
 }
 #toggle:checked ~ #expand {
-  height: 720px;
+  height: 750px;
 }
 #toggle:checked ~ label::before {
   content: "-";
