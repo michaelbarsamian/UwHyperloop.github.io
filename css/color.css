@@ -5,59 +5,59 @@
 */
 ::-moz-selection  {
 	color: #FFFFFF;
-	background: #9932CD;
+	background: rgb(81,0,123);
 }
 ::selection {
 	color: #FFFFFF;
-	background:#9932CD;
+	background:rgb(81,0,123);
 }
 a {
-	color: #9932CD;
+	color: rgb(81,0,123);
 }
 .selected {
-	color: #9932CD !important;
+	color: rgb(81,0,123) !important;
 }
-strong { color: #9932CD; }
-blockquote, blockquote p { color: #9932CD; }
-.icons-ul i { color:#9932CD; }
+strong { color: rgb(81,0,123); }
+blockquote, blockquote p { color: rgb(81,0,123); }
+.icons-ul i { color:rgb(81,0,123); }
 .ha-header nav a:hover {
-	color: #9932CD;
+	color: rgb(81,0,123);
 }
 .hero-title span {
-	color:#9932CD;
+	color:rgb(81,0,123);
 }
 .about-icon {
-	background:#9932CD;
+	background:rgb(81,0,123);
 }
 .info h3 {
-	color:#9932CD;
+	color:rgb(81,0,123);
 }
 .cta-section {
-	background:#9932CD !important;
+	background:rgb(81,0,123) !important;
 }
 .contact-wrap h3 {
-	color:#9932CD;
+	color:rgb(81,0,123);
 }
 .social-title {
-	color:#9932CD;
+	color:rgb(81,0,123);
 }
 .count {
-	color:#9932CD;
+	color:rgb(81,0,123);
 }
 .client-section {
-	background:#9932CD !important;
+	background:rgb(81,0,123) !important;
 }
 .footer i {
-	color:#9932CD;
+	color:rgb(81,0,123);
 }
 .copyright a:hover {
-	color:#9932CD;
+	color:rgb(81,0,123);
 }
 button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-	background:#9932CD;
+	background:rgb(81,0,123);
 }
 .social-link:hover .social-icon,
 .portfolio-caption {
