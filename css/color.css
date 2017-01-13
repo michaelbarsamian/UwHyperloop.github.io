@@ -17,14 +17,14 @@ a {
 .selected {
 	color: rgb(81,0,123) !important;
 }
-strong { color: rgb(81,0,123); }
+strong { color: #9932CD; }
 blockquote, blockquote p { color: rgb(81,0,123); }
 .icons-ul i { color:rgb(81,0,123); }
 .ha-header nav a:hover {
 	color: rgb(81,0,123);
 }
 .hero-title span {
-	color:rgb(81,0,123);
+	color:#9932CD;
 }
 .about-icon {
 	background:rgb(81,0,123);
@@ -39,10 +39,10 @@ blockquote, blockquote p { color: rgb(81,0,123); }
 	color:rgb(81,0,123);
 }
 .social-title {
-	color:rgb(81,0,123);
+	color:#9932CD;
 }
 .count {
-	color:rgb(81,0,123);
+	color:#9932CD;
 }
 .client-section {
 	background:rgb(81,0,123) !important;
